@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hola!!! 👋
 
-<!--
-**ernesto-gon/ernesto-gon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Ernesto, un apasionado estudiante de informática. Actualmente estoy cursando la FP superior de Desarrollo de Aplicaciones Web.
+Desde siempre me ha fascinado la tecnología.
 
-Here are some ideas to get you started:
+Las tecnologías y herramientas que estoy aprendiendo a utilizar son:
+ - Java
+ - Html5
+ - Css
+ - JavaScript
+ - Git
+ - SQL
+ - Intellij IDEA
+ - Apache NetBeans
+ - MySQL
+ - Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+El enlace a mi portfolio personal de GitHub es: https://ernesto-gon.github.io/ernesto_gonzalez-portfolio/
